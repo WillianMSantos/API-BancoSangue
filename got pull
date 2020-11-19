@@ -1,0 +1,262 @@
+[33mcommit 7571cc780b224943cc71d081b66dffd8e62f2e24[m[33m ([m[1;36mHEAD -> [m[1;32mdevelopment[m[33m)[m
+Author: WillianMSantos <william.marreiros@gmail.com>
+Date:   Sun Nov 15 22:02:41 2020 -0300
+
+    Atualizando função para adcionar bolsa de sangue
+
+[33mcommit 8d7df53ae29e53c0bf43cea1730a86ad88cf3e8a[m
+Author: Gabriel Prado <gaprados3@gmail.com>
+Date:   Sun Nov 15 19:58:58 2020 -0300
+
+    finalizada funcionalidade de busca por id e validar doação
+
+[33mcommit fee9fd380fd943c3c95643ecf65db7661ab8618d[m
+Author: Gabriel Prado <gaprados3@gmail.com>
+Date:   Sun Nov 15 17:00:29 2020 -0300
+
+    Adicionada validação do endpoint por query e token
+
+[33mcommit f41438d532f9f2438421ed8c11c2f3010e21062d[m
+Author: Gabriel Prado <gaprados3@gmail.com>
+Date:   Sat Nov 14 14:33:33 2020 -0300
+
+    adicionadas novas regras no server e mudança estrutural
+
+[33mcommit b92ef001c4f13edafe10ec14d4732d3a0217791c[m
+Author: Gabriel Prado <gaprados3@gmail.com>
+Date:   Sun Nov 8 14:20:04 2020 -0300
+
+    adicionado: uuid e data de doação
+
+[33mcommit d7acc8a092a0523d409616c2f1ae9d4ec9fe9b73[m
+Author: Gabriel Prado <gaprados3@gmail.com>
+Date:   Mon Oct 26 15:36:28 2020 -0300
+
+    update: mudança/refatoração esrtutural do código
+
+[33mcommit 1a55d64409cb66177f0146435001acfab7a2a4fa[m
+Author: Gabriel Prado <gaprados3@gmail.com>
+Date:   Mon Oct 26 15:16:44 2020 -0300
+
+    update: mudança/refatoração esrtutural do código
+
+[33mcommit 8db23c990fdc0cc4c6ffe2e6af4a0766522ea657[m
+Author: Gabriel Prado <gaprados3@gmail.com>
+Date:   Mon Oct 26 15:14:04 2020 -0300
+
+    update: mudança/refatoração esrtutural do código
+
+[33mcommit 8817b44585dfa1fa022816453ac8c8b8971bb5a7[m
+Author: Gabriel Prado <gaprados3@gmail.com>
+Date:   Mon Oct 26 15:03:25 2020 -0300
+
+    update: mudança/refatoração esrtutural do código
+
+[33mcommit 1197720d87d7a4bea77fc7b25e07134bd67b731f[m
+Author: gaprados <gaprados3@gmail.com>
+Date:   Wed Sep 30 23:29:49 2020 -0300
+
+    update: README finalizado com instruções do programa
+
+[33mcommit ed4e0b664b64ec926455ff24942e07cc90868b8e[m
+Author: Filipecdj <filipe.cdj@gmail.com>
+Date:   Wed Sep 30 23:01:53 2020 -0300
+
+    Adicionando func no server
+
+[33mcommit f5bfbedd3d6dda2b44a4d39039abd11208442e30[m
+Author: gaprados <gaprados3@gmail.com>
+Date:   Wed Sep 30 21:30:31 2020 -0300
+
+    update: ajuste da mensagem de cadastro
+
+[33mcommit feebb7b24fb964a35396b628eebaf0778e2f0649[m
+Author: gaprados <gaprados3@gmail.com>
+Date:   Wed Sep 30 21:27:29 2020 -0300
+
+    feat: Função cadastrar sangue finalizada
+
+[33mcommit 0f4eb51c529f33230237330bd934bc9b997159be[m
+Author: gaprados <gaprados3@gmail.com>
+Date:   Wed Sep 30 16:24:30 2020 -0300
+
+    update: arrumada função de cadastrar pessoa
+
+[33mcommit a2cce60068df6e2658dd271a4aa82855d660782d[m
+Author: WillianMSantos <william.marreiros@gmail.com>
+Date:   Wed Sep 30 00:29:38 2020 -0300
+
+    alterações no servidor
+
+[33mcommit ec00ac99b2d2a6b2a4a7d99cec6fafa2941c1059[m
+Author: gaprados <gaprados3@gmail.com>
+Date:   Tue Sep 29 16:32:35 2020 -0300
+
+    fix: funções do server & BancoDeSangue consertadas
+
+[33mcommit dd8d4d59d5302e9686ceb12a1570cfe09fc2adf7[m
+Author: marcosserg12 <mstjsousa@gmail.com>
+Date:   Mon Sep 28 23:56:43 2020 -0300
+
+    adcionado conteudo ao server
+
+[33mcommit 95e20efe1c61b5631f23ca1124a1009999c4343e[m
+Author: gaprados <gaprados3@gmail.com>
+Date:   Mon Sep 28 09:42:00 2020 -0300
+
+    update: ajustes no BancoSangue e server
+
+[33mcommit 8b2298c87abce4064197c751a7cc3603868bade1[m
+Author: marcosserg12 <mstjsousa@gmail.com>
+Date:   Mon Sep 28 00:44:21 2020 -0300
+
+    Ajuste na Classe BancoSangue e nas sua funcoes
+
+[33mcommit 8a6a39d479473c289dfced47f24ddd1231f32b20[m
+Author: marcosserg12 <mstjsousa@gmail.com>
+Date:   Mon Sep 28 00:30:57 2020 -0300
+
+    Adcionado a função valida quantidade
+
+[33mcommit c21b9b72f65f148bdfa74256c360c9f34736e629[m
+Author: Filipecdj <filipe.cdj@gmail.com>
+Date:   Sun Sep 27 22:35:19 2020 -0300
+
+    arrumando
+
+[33mcommit 299621724ca1a7d313572e3c6ed22a21c948ceed[m
+Author: Filipecdj <filipe.cdj@gmail.com>
+Date:   Sun Sep 27 22:29:57 2020 -0300
+
+    Backup
+
+[33mcommit f30ac7b87877162ec85a4ccce5179b5e8f47a448[m
+Merge: 5031570 2d91e8a
+Author: Filipecdj <filipe.cdj@gmail.com>
+Date:   Sun Sep 27 21:44:47 2020 -0300
+
+    Merge branch 'development' of https://github.com/iesb-POO/api into development
+
+[33mcommit 5031570ea8370e5788bb586f856ecfc46237f827[m
+Author: Filipecdj <filipe.cdj@gmail.com>
+Date:   Sun Sep 27 21:43:13 2020 -0300
+
+    Função retirar sangue
+
+[33mcommit 2d91e8a4dd226d5596bdbabe52cd4c28b3a81660[m
+Author: marcosserg12 <mstjsousa@gmail.com>
+Date:   Sun Sep 27 21:05:19 2020 -0300
+
+    Adcionado as validades para a pessoa doar
+
+[33mcommit 7eeb099d219ca16140015d6c28c06eb815d93795[m
+Author: WillianMSantos <william.marreiros@gmail.com>
+Date:   Sun Sep 27 20:58:00 2020 -0300
+
+    Adcionando Armazenamento de sangue no banco de sangue
+
+[33mcommit d69c7dfee8278cdff0956b7b411e162b4a76ed41[m
+Author: gaprados <gaprados3@gmail.com>
+Date:   Sun Sep 27 20:07:14 2020 -0300
+
+    update: Código refatorado para v2
+
+[33mcommit 14103bb929311ed615e7b70cc52648b356ea1cf6[m
+Author: gaprados <gaprados3@gmail.com>
+Date:   Sun Sep 27 19:23:22 2020 -0300
+
+    update: Código refatorado v2
+
+[33mcommit 0792ef51739c53795f7fb898c4f94b3fdf00e20a[m
+Merge: 5453584 75905a0
+Author: WillianMSantos <william.marreiros@gmail.com>
+Date:   Sun Sep 27 18:59:14 2020 -0300
+
+    Merge branch 'development' of https://github.com/iesb-POO/api into development
+
+[33mcommit 5453584c755693d981239814ae3778703b7980cf[m
+Author: WillianMSantos <william.marreiros@gmail.com>
+Date:   Sun Sep 27 18:53:29 2020 -0300
+
+    Adcionando comportamento do doador e classe arquivo banco
+
+[33mcommit 75905a07a55c4bcabbaafb975dfb1d5c357e9d3c[m
+Author: Filipecdj <filipe.cdj@gmail.com>
+Date:   Sun Sep 27 16:23:57 2020 -0300
+
+    pessoa receptora, prioridades
+
+[33mcommit aade16cca47ed47dbf374a3d671b49ca6b2f10fe[m
+Merge: 29b3a3b 2d2039f
+Author: Gabriel Prado <53790528+gaprados@users.noreply.github.com>
+Date:   Sun Sep 27 13:36:18 2020 -0300
+
+    Merge pull request #2 from iesb-POO/master
+    
+    Merge master in development
+
+[33mcommit 2d2039f00b8bfaa96e65606e41be5b51c7ce6b78[m[33m ([m[1;32mmaster[m[33m)[m
+Author: WillianMSantos <william.marreiros@gmail.com>
+Date:   Sun Sep 27 13:28:23 2020 -0300
+
+    Criando funcao sangue na classe pessoa
+
+[33mcommit db786c7a105b3cd1d1bc21ec39a413d7fc84db6b[m
+Author: WillianMSantos <william.marreiros@gmail.com>
+Date:   Sat Sep 26 23:38:36 2020 -0300
+
+    adcionado as classes banco receptor e banco doador
+
+[33mcommit 29b3a3bb6abe6c9f3bba2ee2dd2ae54b1bb3139c[m
+Author: gaprados <gaprados3@gmail.com>
+Date:   Fri Sep 25 01:20:47 2020 -0300
+
+    update: Projeto atualizado
+
+[33mcommit e224555a24324cc912aab13cd3540350dd47acde[m
+Author: gaprados <gaprados3@gmail.com>
+Date:   Fri Sep 25 01:17:50 2020 -0300
+
+    update: Projeto atualizado
+
+[33mcommit 79ffc5363abbf500759fffe539e9ffc8090246c5[m
+Merge: d718ccf 8909f72
+Author: Gabriel Prado <53790528+gaprados@users.noreply.github.com>
+Date:   Thu Sep 24 20:17:19 2020 -0300
+
+    Merge pull request #1 from iesb-POO/development
+    
+    Merge
+
+[33mcommit 8909f72e7f946fd801e6575d4ac626e32606baf0[m
+Author: gaprados <gaprados3@gmail.com>
+Date:   Wed Sep 23 21:10:03 2020 -0300
+
+    update: Pasta principal refatorada
+
+[33mcommit 1b85dbab56e08a5a7f87c591dacc88a38341eceb[m
+Author: gaprados <gaprados3@gmail.com>
+Date:   Wed Sep 23 21:08:19 2020 -0300
+
+    update: Pasta principal refatorada
+
+[33mcommit 29e19493a44aa15733accd0f5a493527bfd7f7d4[m
+Author: gaprados <gaprados3@gmail.com>
+Date:   Wed Sep 23 21:05:33 2020 -0300
+
+    delete: pasta 'banco'
+
+[33mcommit 203e2ab33d7c76a4cf6390b4134e132b090113dc[m
+Author: gaprados <gaprados3@gmail.com>
+Date:   Wed Sep 23 21:05:00 2020 -0300
+
+    update: Arquivos organizados na pasta
+
+[33mcommit 9e641f5811eca4383f54219f355c33337bde8d23[m
+Merge: 21af156 de0da10
+Author: WillianMSantos <william.marreiros@gmail.com>
+Date:   Wed Sep 23 20:51:24 2020 -0300
+
+    Merge branch 'development' of https://github.com/iesb-POO/api into development
+
+[33mcommit 
